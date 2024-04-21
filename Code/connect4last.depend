@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1655453754 source:h:\ίανΙ\connect4last\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
